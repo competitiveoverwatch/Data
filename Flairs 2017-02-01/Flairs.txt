@@ -1,0 +1,46 @@
+Moderator: 12
+Verified: 65
+
+Text: 59
+
+Bronze: 518
+Silver: 291
+Gold: 1288
+Platinum: 2656
+Diamond: 3470
+Master: 2183
+Grandmaster: 1000
+Top 500: 830
+
+Cloud 9: 321
+EnVyUs: 283
+nrg: 158
+rogue: 120
+misfits: 108
+nip: 111
+fnatic: 88
+liquid: 65
+faze: 63
+lunatic-hai: 60
+complexity: 45
+tempo storm: 39
+reunited: 37
+immortals: 31
+dig: 17+3=20
+clg: 15
+freecs-blue: 15
+renegades: 15
+method: 9
+luxury-watch-red: 9
+luminosity: 8
+sodi: 7
+nga: 6
+rise: 6
+ldlc: 5
+anox: 5
+kongdoo-uncia: 4
+invictus: 3
+kongdoo-panthera: 2
+melty: 2
+world-elite-white: 1
+freecs-red: 1

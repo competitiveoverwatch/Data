@@ -1,1 +1,1 @@
-# r-CompetitiveOverwatch-Data
+# Data for [/r/CompetitiveOverwatch](https://reddit.com/r/competitiveoverwatch)
