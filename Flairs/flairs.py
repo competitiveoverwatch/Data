@@ -3,12 +3,13 @@ import praw
 
 # Requires bot be given 'flair' permission
 
-subname = "competitiveoverwatch"
-reddit = praw.Reddit(client_id = creds.client_id,
-                         client_secret = creds.client_secret,
-                         password = creds.password,
+reddit = praw.Reddit(client_id = creds.reddit_client_id,
+                         client_secret = creds.reddit_client_secret,
+                         password = creds.reddit_password,
                          user_agent = const.user_agent,
-                         username = creds.username)
+                         username = creds.reddit_username)
+
+subreddit = reddit.subreddit(const.subreddit)
 
 flairs = {}
 for f in subreddit.flair():
